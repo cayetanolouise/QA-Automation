@@ -1,0 +1,146 @@
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\phantomjs-license.txt
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Newspaper Selenium Web Driver Automation.exe.config
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Newspaper Selenium Web Driver Automation.exe
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Newspaper Selenium Web Driver Automation.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\EPPlus.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Selenium.Helper.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Buffers.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Drawing.Common.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Memory.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Text.Json.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.ValueTuple.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\WebDriver.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\WebDriver.Support.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\xunit.abstractions.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\xunit.assert.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\xunit.core.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\xunit.execution.desktop.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\EPPlus.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Buffers.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Drawing.Common.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Drawing.Common.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Memory.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Text.Json.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\System.ValueTuple.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\WebDriver.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\WebDriver.Support.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\xunit.abstractions.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\xunit.assert.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\xunit.core.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\xunit.execution.desktop.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\obj\Debug\Newspaper Selenium Web Driver Automation.csproj.AssemblyReference.cache
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\obj\Debug\Newspaper_Selenium_Web_Driver_Automation.NewspaperAutomation.resources
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\obj\Debug\Newspaper_Selenium_Web_Driver_Automation.Properties.Resources.resources
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\obj\Debug\Newspaper Selenium Web Driver Automation.csproj.GenerateResource.cache
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\obj\Debug\Newspaper Selenium Web Driver Automation.csproj.CoreCompileInputs.cache
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\obj\Debug\Newspape.51355581.Up2Date
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\obj\Debug\Newspaper Selenium Web Driver Automation.exe
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\obj\Debug\Newspaper Selenium Web Driver Automation.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\LivingDoc.Dtos.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\LivingDoc.SpecFlowPlugin.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\BoDi.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Gherkin.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\SpecFlow.Internal.Json.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Validation.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Xunit.SkippableFact.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\BoDi.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Gherkin.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\TechTalk.SpecFlow.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Validation.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\Newspaper Selenium Web Driver Automation\bin\Debug\Xunit.SkippableFact.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\obj\Debug\SauceDemo Selenium Web Driver Automation.csproj.AssemblyReference.cache
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\obj\Debug\Newspaper_Selenium_Web_Driver_Automation.SauceDemoAutomation.resources
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\obj\Debug\Newspaper_Selenium_Web_Driver_Automation.Properties.Resources.resources
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\obj\Debug\SauceDemo Selenium Web Driver Automation.csproj.GenerateResource.cache
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\obj\Debug\SauceDemo Selenium Web Driver Automation.csproj.CoreCompileInputs.cache
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\obj\Debug\SauceDemo Selenium Web Driver Automation.exe
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\obj\Debug\SauceDemo Selenium Web Driver Automation.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\phantomjs-license.txt
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\LivingDoc.Dtos.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\LivingDoc.SpecFlowPlugin.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\SauceDemo Selenium Web Driver Automation.exe.config
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\SauceDemo Selenium Web Driver Automation.exe
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\SauceDemo Selenium Web Driver Automation.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\BoDi.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\EPPlus.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Gherkin.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Selenium.Helper.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\SpecFlow.Internal.Json.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Buffers.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Drawing.Common.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Memory.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Text.Json.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.ValueTuple.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Validation.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\WebDriver.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\WebDriver.Support.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\xunit.abstractions.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\xunit.assert.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\xunit.core.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\xunit.execution.desktop.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Xunit.SkippableFact.dll
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\BoDi.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\EPPlus.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Gherkin.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Buffers.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Drawing.Common.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Drawing.Common.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Memory.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Text.Json.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\System.ValueTuple.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\TechTalk.SpecFlow.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Validation.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\WebDriver.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\WebDriver.Support.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\xunit.abstractions.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\xunit.assert.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\xunit.core.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\xunit.execution.desktop.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\bin\Debug\Xunit.SkippableFact.xml
+C:\Users\chrischelle.cayetano\OneDrive - Quantrics\Documents\Louise\Selenium\SauceDemo Selenium Web Driver Automation\obj\Debug\SauceDem.4A125D1C.Up2Date
